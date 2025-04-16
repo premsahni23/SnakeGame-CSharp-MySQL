@@ -95,7 +95,7 @@ The game includes:
 
 ## 📃 License
 
-This project is licensed under the [Apache License](SnakeGame/License.txt).
+This project is licensed under the [Apache License](License.txt).
 
 ---
 
