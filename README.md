@@ -95,7 +95,7 @@ The game includes:
 
 ## 📃 License
 
-This project is licensed under the [Apache License](License.txt).
+This project is licensed under the [Apache License]([License.txt](https://github.com/premsahni23/SnakeGame-CSharp-MySQL/blob/master/LICENSE.txt)).
 
 ---
 
