@@ -86,16 +86,6 @@ The game includes:
 
 ---
 
-## 📸 Screenshots
-
-> *(Add your gameplay and leaderboard screenshots here)*  
-> Example:
-> - `GameForm.png` – during play  
-> - `LeaderboardForm.png` – leaderboard view  
-> - `GameOverForm.png` – end screen with buttons
-
----
-
 ## 🙌 Acknowledgements
 
 - Inspired by classic **retro snake games**
